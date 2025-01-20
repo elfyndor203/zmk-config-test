@@ -20,4 +20,4 @@
 ---
 include:
   - board: pillbug
-    shield: pancake
+    shield: test
